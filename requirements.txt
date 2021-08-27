@@ -1,6 +1,6 @@
-py -m pip install matplotlib
-py -m pip install plotly.express
-py -m pip install streamlit_folium
-py -m pip install folium
-py -m pip install seaborn
+python -m pip install matplotlib
+python -m pip install plotly.express
+python -m pip install streamlit_folium
+python -m pip install folium
+python -m pip install seaborn
 
